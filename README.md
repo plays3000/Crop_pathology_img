@@ -2,7 +2,9 @@
 
 I recommand you to this progress to check the codes:
 * clinical_csv_maker.ipynb
+  
 * downloader.py
+  
 * cropping_TCGA.py
 
 required library:
@@ -10,6 +12,5 @@ required library:
 * openslide-python
 * opencv-python
 
-  This code is optimized in Linux, so if there is any error while downloading the svs file,
-
-  adjust the download.py codes for your each projects.
+  This code is optimized for Linux, so if there is any error while downloading the svs file,
+  adjust the download.py and cropping_TCGA.py codes for your projects.
